@@ -5,6 +5,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+/**
+ * @author  : Rinita De
+ */
 @Controller
 public class AuthorController {
     private AuthorRepository authorRepository;
